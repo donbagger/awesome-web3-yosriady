@@ -54,8 +54,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Cookie3](https://www.cookie3.co/): Your gateway to MarketingFi.
 - [Dune](https://dune.com/): Query, visualize, share and export data across 15+ blockchains.
 - [Nansen](https://www.nansen.ai/): Onchain Analytics Platform designed for investors.
-- [DexPaprika](https://api.dexpaprika.com): Free DEX data API across 34 blockchains. 30M+ pools, 27M+ tokens, real-time SSE streaming. No API key.
-- [CoinPaprika](https://api.coinpaprika.com): Free crypto market data for 12K+ coins, 350+ exchanges, tickers, OHLCV. No API key for free tier.
+- [DexPaprika](https://api.dexpaprika.com): DEX data API across 36 blockchains. Free tier, no API key required.
+- [CoinPaprika](https://api.coinpaprika.com): Crypto market data for 12,000+ coins and 350+ exchanges. Free tier, no API key required.
 
 ## Payroll 💰
 
